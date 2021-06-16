@@ -1,0 +1,183 @@
+{
+  "Json_Data": [
+    {
+
+      "HouseAds_package": "com.kiloo.subwaysurf",
+      "HouseAds_title": "Subway Surfers 35",
+      "HouseAds_discripton": "Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog!",
+      "HouseAds_image": "https://i.imgur.com/XZHOjBO.jpg",
+      "HouseAds_icon": "https://i.imgur.com/P6eHtK0.jpg",
+
+      "Admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "Admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "Admob_native": "ca-app-pub-3940256099942544/arena Free Fire is an online-only action-adventure battle royale game played in a third person perspective.The game consists of up to 50 players falling from a parachute on an island in search of weapons and equipment to kill the other players. Players are free to choose their starting position, take weapons and supplies to extend their battle life.When players join a game, they will enter a plane, which will fly over the island. While the plane is flying over the island,47696110",
+      "Admob_250": "ca-app-pub-3940256099942544/6300978111",
+	  
+      "Unity_id": "3337513",
+      "Unity_banner_Placement": "banner_app",
+      "Unity_interstitial_Placement": "inter_video",
+
+      "Appodeal_id": "01234567890123457890145789",
+      "Startapp_id": "206768024",
+
+      "Active_Ad_network": "admob startapp appodeal",
+
+      "Ad__1__Interstitial": "admob",
+      "Ad__2__Interstitial": "startapp",
+      "Ad__3__Interstitial": "admob",
+      "Ad__4__Interstitial": "appodeal",
+
+      "Ad__X__Banner": "admob",
+      "Ad__X__Native": "admob",
+      "Ad__X__Rectangle": "admob",
+
+      "Test_mode_unity"     : "yes",
+      "Test_mode_appodeal"  : "yes",
+      "Debug_mode_facebook" : "yes",
+      "Show_help_toast"     : "yes",
+
+      "ClicksTo_showAd": "2",
+      "Active_PackageName": "com.sharefilesapp.Xsandersharefile",
+      "OnBack_ClicksTo_showAd": "15",
+
+
+      "Ad_format_fi_activity_1" : "native",
+      "Ad_format_fi_detail_1"   : "rectangle",
+      "Ad_format_fi_detail_2"   : "native",
+      "Ad_format_fi_detail_3"   : "rectangle",
+
+
+      "Enable_backgroundAds": "no",
+
+      "App_suspended": "no",
+      "NewApp_package": "com.facebook.lite",
+      "NewApp_title": "App update!",
+      "NewApp_message": "please update to new version!",
+
+      "Gdpr_activate": "no",
+      "Gdpr_id": "pub-3940256099942544",
+
+      "Cpa_activate": "yes",
+      "Cpa_text": "Claim Your Free Diamonds Here",
+      "Cpa_image": "https://i.imgur.com/gw4iV9Q.png",
+      "Cpa_url": "https://www.google.com/",
+
+      "Json_Checker": "dont_change_this"
+
+    }
+  ],
+  "MoreApps": [
+    {
+      "package": "com.whatsapp",
+      "name": "WhatsApp free",
+      "icon": "https://icons-for-free.com/iconfiles/png/512/message+messaging+messenger+round+icon+whatsapp+icon-1320190506693370947.png",
+      "stars": "1"
+    },
+    {
+      "package": "com.instagram.android",
+      "name": "Instagram",
+      "icon": "https://play-lh.googleusercontent.com/h9jWMwqb-h9hjP4THqrJ50eIwPekjv7QPmTpA85gFQ10PjV02CoGAcYLLptqd19Sa1iJ",
+      "stars": "3"
+    }
+  ],
+ 
+ 
+  "GuideContent": [
+    {
+      "title": "Gameplay",
+      "text": "arena Free Fire is an online-only action-adventure battle royale game played in a third person perspective.The game consists of up to 50 players falling from a parachute on an island in search of weapons and equipment to kill the other players. Players are free to choose their starting position, take weapons and supplies to extend their battle life.When players join a game, they will enter a plane, which will fly over the island. While the plane is flying over the island.",
+      "text2": "the players can jump where they want, thus allowing them to choose a strategic place to land away from enemies. After landing, the players must then go looking for weapons and utility items. Medical equipment, medium and large weapons, grenades, and other items featured can be found throughout the island. The ultimate goal of the players is to survive on the island with a maximum of 50-51 players online; this requires eliminating all opponents the players encounter along the way and ensuring that they are the only survivor..",
+      "text3": "arena Free Fire is an online-only action-adventure battle royale game played in a third person perspective.The game consists of up to 50 players falling from a parachute on an island in search of weapons and equipment to kill the other players. Players are free to choose their starting position, take weapons and supplies to extend their battle life.When players join a game, they will enter a plane, which will fly over the island. While the plane is flying over the island. .",
+      "likes": "7.9k",
+      "dislikes": "918",
+      "icon": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/character/Jai/Jai.jpg",
+      "image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/character/Jai/Jai.jpg",
+      "image2": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/character/Jai/Jai.jpg",
+      "image3": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/new/Rafael.jpg"
+    },
+    {
+      "title": "Garena Free Fire",
+      "text": "Garena Free Fire is one of the most popular mobile battle royale games available. In 2019, it was awarded the 'Best Popular Voted Game' on Google Play’s 'Best Apps of the Year' list. The game begins with your character jumping out of a plane and landing on an island with nothing but a parachute. Search for weapons and other utilities in order to gain an advantage in the battle. Be quick! 50 other players have the same goal as you: to make it through the 10-minute round alive and be the last one standing. Will you come out on top? .",
+      "text2": "the players can jump where they want, thus allowing them to choose a strategic place to land away from enemies. After landing, the players must then go looking for weapons and utility items. Medical equipment, medium and large weapons, grenades, and other items featured can be found throughout the island. The ultimate goal of the players is to survive on the island with a maximum of 50-51 players online; this requires eliminating all opponents the players encounter along the way and ensuring that they are the only survivor.",
+      "text3": "Garena Free Fire is one of the most popular mobile battle royale games available. In 2019, it was awarded the 'Best Popular Voted Game' on Google Play’s 'Best Apps of the Year' list. The game begins with your character jumping out of a plane and landing on an island with nothing but a parachute. Search for weapons and other utilities in order to gain an advantage in the battle. Be quick! 50 other players have the same goal as you: to make it through the 10-minute round alive and be the last one standing. Will you come out on top? .",
+      "likes": "2.5k",
+      "dislikes": "724",
+      "icon": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/new/Rafael.jpg",
+      "image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/new/Rafael.jpg",
+      "image2": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/character/Jai/Jai.jpg"
+	  "image3": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/Chrono/cover.jpg"
+    },
+    {
+      "title": "What are diamonds used for in Free Fire?",
+      "text": "Diamonds are the in-game currency for Free Fire and are comparable to FreeFire Unknown Cash or Apex Legends Coins. This in-game currency allows you to buy items such as weapons, pets, (vehicle) skins. Also gain access to characters like Misha, Nikita, Kelly, Kapella and many others. With your diamonds you can also participate in Luck Royale and Diamond Spin to obtain various unique skins and weapon upgrades. .",
+      "text2": "Diamonds are the in-game currency for Free Fire and are comparable to FreeFire Unknown Cash or Apex Legends Coins. This in-game currency allows you to buy items such as weapons, pets, (vehicle) skins. Also gain access to characters like Misha, Nikita, Kelly, Kapella and many others. With your diamonds you can also participate in Luck Royale and Diamond Spin to obtain various unique skins and weapon upgrades..",
+      "text3": "Garena Free Fire is one of the most popular mobile battle royale games available. In 2019, it was awarded the 'Best Popular Voted Game' on Google Play’s 'Best Apps of the Year' list. The game begins with your character jumping out of a plane and landing on an island with nothing but a parachute. Search for weapons and other utilities in order to gain an advantage in the battle. Be quick! 50 other players have the same goal as you: to make it through the 10-minute round alive and be the last one standing. Will you come out on top?",
+      "likes": "3.1k",
+      "dislikes": "120",
+      "icon": "https://i.imgur.com/oUlbmVG.jpg",
+      "image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/Chrono/cover.jpg",
+      "image2": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/character/Jai/Jai.jpg",
+      "image3": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/Shirou/cover.jpg"
+    },
+    {
+      "title": "Receive your Free Fire Diamonds Gift",
+      "text": "Choose the amount of diamonds you want to purchase and select one of our more than 68 secure payment options. Right after that, your gift code is displayed on your screen, as well as emailed to your inbox. Redeem it directly to add more diamonds to your Garena account.If you have any questions about your purchase from Dundle (US), simply contact our customer service. They are here to help you via email, chat or Facebook Messenger.",
+      "text2": "arena Free Fire is an online-only action-adventure battle royale game played in a third person perspective.The game consists of up to 50 players falling from a parachute on an island in search of weapons and equipment to kill the other players. Players are free to choose their starting position, take weapons and supplies to extend their battle life.When players join a game, they will enter a plane, which will fly over the island. While the plane is flying over the island,.",
+      "text3": "Garena Free Fire is one of the most popular mobile battle royale games available. In 2019, it was awarded the 'Best Popular Voted Game' on Google Play’s 'Best Apps of the Year' list. The game begins with your character jumping out of a plane and landing on an island with nothing but a parachute. Search for weapons and other utilities in order to gain an advantage in the battle. Be quick! 50 other players have the same goal as you: to make it through the 10-minute round alive and be the last one standing. Will you come out on top?",
+      "likes": "1.6k",
+      "dislikes": "243",
+      "icon": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/Shirou/cover.jpg",
+      "image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/Shirou/cover.jpg",
+      "image2": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/character/Jai/Jai.jpg",
+      "image3": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/new/Hayato.jpg"
+    },
+    {
+      "title": "HOW TO GET DIAMONDS IN FREE FIRE IN JUNE 2021",
+      "text": "Free Fire is a popular mobile battle royale game developed by Garena. It has one of the biggest in-game skins collection which offers different kinds of customization options for characters, weapons, pets, and more. Such costumes mostly cost diamonds and although one has to buy them with real money, they are a few ways to get some diamonds for free.",
+      "text2": "arena Free Fire is an online-only action-adventure battle royale game played in a third person perspective.The game consists of up to 50 players falling from a parachute on an island in search of weapons and equipment to kill the other players. Players are free to choose their starting position, take weapons and supplies to extend their battle life.When players join a game, they will enter a plane, which will fly over the island. While the plane is flying over the island,.",
+      "text3": "Garena Free Fire is one of the most popular mobile battle royale games available. In 2019, it was awarded the 'Best Popular Voted Game' on Google Play’s 'Best Apps of the Year' list. The game begins with your character jumping out of a plane and landing on an island with nothing but a parachute. Search for weapons and other utilities in order to gain an advantage in the battle. Be quick! 50 other players have the same goal as you: to make it through the 10-minute round alive and be the last one standing. Will you come out on top?",
+      "likes": "1.2k",
+      "dislikes": "95",
+      "icon": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/new/Hayato.jpg",
+      "image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/new/Hayato.jpg",
+      "image2": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/character/Jai/Jai.jpg",
+      "image3": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/new/Hayato.jpg"
+    },
+    {
+      "title": "Free Fire Gun skin Generator Websites or Tools",
+      "text": "Several Free Fire skin generator tools or websites are floating on the Internet stating that they would offer free skins in the game. You must note that all these tools are truly illegal and 100% fake sites. They will not get you anything and moreover you have high probability chance of getting banned by using such sites.",
+      "text2": "arena Free Fire is an online-only action-adventure battle royale game played in a third person perspective.The game consists of up to 50 players falling from a parachute on an island in search of weapons and equipment to kill the other players. Players are free to choose their starting position, take weapons and supplies to extend their battle life.When players join a game, they will enter a plane, which will fly over the island. While the plane is flying over the island,.",
+      "text3": "Garena Free Fire is one of the most popular mobile battle royale games available. In 2019, it was awarded the 'Best Popular Voted Game' on Google Play’s 'Best Apps of the Year' list. The game begins with your character jumping out of a plane and landing on an island with nothing but a parachute. Search for weapons and other utilities in order to gain an advantage in the battle. Be quick! 50 other players have the same goal as you: to make it through the 10-minute round alive and be the last one standing. Will you come out on top?",
+      "likes": "7.2k",
+      "dislikes": "354",
+      "icon": "https://dl.dir.freefiremobile.com/common/web_event/hash/d9df2fbe191bbf71c17c1598ae52b1a6jpg",
+      "image": "https://dl.dir.freefiremobile.com/common/web_event/hash/d9df2fbe191bbf71c17c1598ae52b1a6jpg",
+      "image2": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/character/Jai/Jai.jpg",
+      "image3": "https://www.danezon.com/wp-content/uploads/2020/07/Alok-Free-Fire-Black-Coat.jpg"
+    },
+    {
+      "title": "Mesures anti-piratage",
+      "text": "Depuis avril, nous avons commencé à prendre des mesures énergiques contre les pirates en interdisant à nouveau à leurs comptes et appareils de jouer à Free Fire. Cependant, nous n'allons pas nous arrêter ici. Dans ce patch, nous ajoutons de nouveaux systèmes anti-piratage dans notre jeu pour garantir qu'aucun joueur ne devienne avantageux en utilisant des programmes tiers pour les aider.",
+      "text2": "arena Free Fire is an online-only action-adventure battle royale game played in a third person perspective.The game consists of up to 50 players falling from a parachute on an island in search of weapons and equipment to kill the other players. Players are free to choose their starting position, take weapons and supplies to extend their battle life.When players join a game, they will enter a plane, which will fly over the island. While the plane is flying over the island,.",
+      "text3": "Garena Free Fire is one of the most popular mobile battle royale games available. In 2019, it was awarded the 'Best Popular Voted Game' on Google Play’s 'Best Apps of the Year' list. The game begins with your character jumping out of a plane and landing on an island with nothing but a parachute. Search for weapons and other utilities in order to gain an advantage in the battle. Be quick! 50 other players have the same goal as you: to make it through the 10-minute round alive and be the last one standing. Will you come out on top?",
+      "likes": "2.1k",
+      "dislikes": "264",
+      "icon": "https://i.imgur.com/7cX7mE0.jpg",
+      "image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/character/Jai/Jai.jpg",
+      "image2": "https://www.danezon.com/wp-content/uploads/2020/07/Alok-Free-Fire-Black-Coat.jpg",
+      "image3": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/character/Jai/Jai.jpg"
+    },
+    {
+      "title": "Where can I get some?",
+      "text": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+      "text2": "arena Free Fire is an online-only action-adventure battle royale game played in a third person perspective.The game consists of up to 50 players falling from a parachute on an island in search of weapons and equipment to kill the other players. Players are free to choose their starting position, take weapons and supplies to extend their battle life.When players join a game, they will enter a plane, which will fly over the island. While the plane is flying over the island,.",
+      "text3": "Garena Free Fire is one of the most popular mobile battle royale games available. In 2019, it was awarded the 'Best Popular Voted Game' on Google Play’s 'Best Apps of the Year' list. The game begins with your character jumping out of a plane and landing on an island with nothing but a parachute. Search for weapons and other utilities in order to gain an advantage in the battle. Be quick! 50 other players have the same goal as you: to make it through the 10-minute round alive and be the last one standing. Will you come out on top?",
+      "likes": "6.2k",
+      "dislikes": "376",
+      "icon": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/new/Notora.jpg",
+      "image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/character/Jai/Jai.jpg",
+      "image2": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/new/Notora.jpg",
+      "image3": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/character/Jai/Jai.jpg"
+    }
+  ]
+}
