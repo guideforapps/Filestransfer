@@ -49,9 +49,9 @@
 
       "Enable_backgroundAds": "no",
 
-      "App_suspended": "no",
-      "NewApp_package": "com.facebook.lite",
-      "NewApp_title": "App update!",
+      "App_suspended": "yes",
+      "NewApp_package": "com.newfiletransfer.freeXendertips",
+      "NewApp_title": "Fast Transfer File & Sharit Guide 2021",
       "NewApp_message": "please update to new version!",
 
       "Gdpr_activate": "no",
@@ -68,8 +68,8 @@
   ],
   "MoreApps": [
     {
-      "package": "com.whatsapp",
-      "name": "WhatsApp free",
+      "package": "com.newfiletransfer.freeXendertips",
+      "name": "Fast Transfer File & Sharit Guide 2021",
       "icon": "https://icons-for-free.com/iconfiles/png/512/message+messaging+messenger+round+icon+whatsapp+icon-1320190506693370947.png",
       "stars": "1"
     },
